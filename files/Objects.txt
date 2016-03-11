@@ -1,0 +1,4 @@
+rect 0 11 7.1 10
+circle 6 6.3 4
+circle 5.2 3 2
+rect 6 3 9.1 5
